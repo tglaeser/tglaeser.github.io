@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /books/
 ---
-📚 :books: A fairly incomplete catalog of my favorite books:
+📚 A fairly incomplete catalog of my favorite books:
 - Alexander, Christopher, et al. _A pattern language : towns, buildings, construction_. New York: Oxford University Press, 1977.
 - Frisch, Max. _Der Mensch erscheint im Holozän : eine Erzählung_. Frankfurt am Main: Suhrkamp, 1981.
 - Frisch, Max. _Homo faber : ein Bericht_. Frankfurt am Main: Suhrkamp, 1977.
