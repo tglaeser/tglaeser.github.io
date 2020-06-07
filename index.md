@@ -6,4 +6,4 @@ layout: home
 ---
 _... a defiant cry of reason, which recognizes its own ignorance but refuses to delegate to others the source of knowledge.
 ... a small, reserved, and powerfully intelligent manifesto against infinity - against obscurantism._
-<p align="right">Rovelli, Carlo. <i>Realtà non è come ci appare</i>. New York, Riverhead Books, 2017, pp.236-237.</p>
+<p align="right">Rovelli, Carlo. <i>Realtà non è come ci appare</i>. New York: Riverhead Books, 2017, pp.236-237.</p>
