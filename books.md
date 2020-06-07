@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: Bookshelf
 permalink: /books/
 ---
 A fairly incomplete catalog of my favorite books:
