@@ -7,6 +7,7 @@
 
     {%- include header.html -%}
 
+    <h1 class="site-banner">{%- if page.title -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}</h1>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
