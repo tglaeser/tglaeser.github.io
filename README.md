@@ -7,7 +7,7 @@ Install [Ruby](https://www.ruby-lang.org/en/) and then run the following command
 $ gem install bundler jekyll
 ```
 
-#### Get the Sources
+#### Get the sources
 ```
 $ git clone https://github.com/tglaeser/tglaeser.github.io.git
 $ cd ./tglaeser.github.io
@@ -51,12 +51,12 @@ $ tree /lib/ruby/gems/2.7.0/gems/minima-2.5.1
 ```
 Note that any file from this repository matching a leaf node from that tree is overriding the default layout.
 
-#### Update Dependencies
+#### Update dependencies
 ```
 $ bundle update
 ```
 
-#### Launch Test Web Server
+#### Launch test web server
 ```
 $ bundle exec jekyll serve
 ```
