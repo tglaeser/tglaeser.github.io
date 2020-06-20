@@ -35,8 +35,17 @@
 /**
  * New styles
  */
+.site-nav .page-link:hover {
+  color: $grey-color-dark;
+  text-decoration: none;
+}
+a:hover {
+  color: complement($brand-color);
+  text-decoration: none;
+}
 .site-banner {
-    background-image: url("/assets/img/headers/sand.jpg");
+  background-image: url("/assets/img/headers/sand.jpg");
+  @include relative-font-size(2);
 }
 h1 {
   @include relative-font-size(1.5);
