@@ -38,7 +38,6 @@
 .site-banner {
     background-image: url("/assets/img/headers/sand.jpg");
 }
-
 h1 {
   @include relative-font-size(1.5);
   padding: (1.5 * $spacing-unit) 0px (3 * $spacing-unit);
@@ -49,20 +48,18 @@ h1 {
   text-shadow: 0 0 0 #000, 0 0 .3em #000;
   color: $grey-color-light;
 }
-
 .page-content .wrapper {
+  border-radius: $spacing-unit;
   background-color: $grey-color-light;
   margin-top: -(3 * $spacing-unit);
   padding-top: 1pt;
 }
-
 .contact-list li,
 .social-media-list li {
   display: inline;
   text-align: right;
   padding-left: $spacing-unit / 4;
 }
-
 .social-media-list {
   float: right;
 }
