@@ -9,6 +9,12 @@
     color: $grey-color-light;
   }
 }
+.site-footer {
+    padding: 10px 0;
+}
+.footer-col {
+    margin-bottom: 0px;
+}
 .footer-col-1 {
   width: -webkit-calc(30% - (#{$spacing-unit} / 2));
   width:         calc(30% - (#{$spacing-unit} / 2));
@@ -19,6 +25,9 @@
 .footer-col-2 {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
+}
+.footer-col-2 p {
+  font-style: italic;
 }
 .footer-col-3 {
   width: -webkit-calc(20% - (#{$spacing-unit} / 2));
