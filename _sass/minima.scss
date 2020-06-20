@@ -16,7 +16,7 @@ $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #fdfdfd !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-dark:  darken($grey-color, 40%) !default;
 
 $table-text-align: left !default;
 
@@ -47,5 +47,6 @@ $on-laptop:        800px !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+  "style"
 ;
