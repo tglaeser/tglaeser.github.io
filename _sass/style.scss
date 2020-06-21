@@ -9,8 +9,17 @@
     color: $grey-color-light;
   }
 }
+.svg-icon {
+    fill: $grey-color-light;
+}
+.svg-icon:hover {
+    fill: $grey-color-dark;
+}
 .site-footer {
     padding: 10px 0;
+}
+.footer-col-wrapper {
+    color: $grey-color-light;
 }
 .footer-col {
     margin-bottom: 0px;
@@ -70,7 +79,7 @@ h1 {
 }
 .page-content .wrapper {
   border-radius: $spacing-unit;
-  background-color: $grey-color-light;
+  background-color: $grey-color;
   margin-top: -(3 * $spacing-unit);
   padding-top: 1pt;
 }
