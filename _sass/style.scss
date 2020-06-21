@@ -65,7 +65,7 @@ h1 {
   padding: (1.5 * $spacing-unit) 0px (3 * $spacing-unit);
   height: 1.5 * $spacing-unit;
   text-align: center;
-  text-shadow: 0 0 0 #000, 0 0 .3em #000;
+  text-shadow: 1px 1px 1px #000;
   color: $grey-color-light;
 }
 .page-content .wrapper {
