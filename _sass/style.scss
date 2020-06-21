@@ -57,7 +57,7 @@ a:hover {
   background-image: url("/assets/img/headers/sand.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
   @include relative-font-size(2);
 }
 h1 {
