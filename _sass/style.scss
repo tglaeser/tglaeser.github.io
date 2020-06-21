@@ -53,15 +53,17 @@ a:hover {
   text-decoration: none;
 }
 .site-banner {
+  background-color: $background-color;
   background-image: url("/assets/img/headers/sand.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   @include relative-font-size(2);
 }
 h1 {
   @include relative-font-size(1.5);
   padding: (1.5 * $spacing-unit) 0px (3 * $spacing-unit);
   height: 1.5 * $spacing-unit;
-  background: $background-color center;
-  background-size: cover;
   text-align: center;
   text-shadow: 0 0 0 #000, 0 0 .3em #000;
   color: $grey-color-light;
