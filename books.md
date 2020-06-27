@@ -14,4 +14,6 @@ permalink: /books/
 - Rosendorfer, Herbert. _Briefe in die chinesische Vergangenheit : Roman_. München: Nymphenburger, 1983.
 - Rosendorfer, Herbert. _Die grosse Umwendung : neue Briefe in die chinesische Vergangenheit_ : Roman. Köln: Kiepenheuer & Witsch, 1997.
 - Ross, Alec. _The industries of the future_. New York, NY: Simon & Schuster, 2016.
+- Rovelli, Carlo. _L'ordine del tempo_. Milano: Adelphi, 2017.
 - Rovelli, Carlo. _Reality is not what it seems : the journey to quantum gravity_. New York: Riverhead Books, 2017.
+- Rovelli, Carlo. _Sette brevi lezioni di fisica_. Milano: Adelphi, 2014.
