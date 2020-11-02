@@ -17,3 +17,5 @@ permalink: /books/
 - Rovelli, Carlo. _L'ordine del tempo_. Milano: Adelphi, 2017.
 - Rovelli, Carlo. _Reality is not what it seems : the journey to quantum gravity_. New York: Riverhead Books, 2017.
 - Rovelli, Carlo. _Sette brevi lezioni di fisica_. Milano: Adelphi, 2014.
+- Sacks, Oliver. _The man who mistook his wife for a hat and other clinical tales_. New York: Summit Books, 1985.
+- Watzlawick, Paul. _Anleitung zum Unglücklichsein_. München: Piper, 1983.
