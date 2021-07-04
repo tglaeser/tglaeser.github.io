@@ -8,6 +8,7 @@ permalink: /links/
 - _[Project Gutenberg](https://dev.gutenberg.org){:target="_blank"} : An online library of free eBooks_.
 
 📰 A collection of web pages I enjoyed reading or otherwise found interesting:
+- Asimov, Isaac. _[The Relativity of Wrong](https://perma.cc/S52T-E337){:target="_blank"}_. Oxford University Press, 1989.
 - Graeber, David. _[On the Phenomenon of Bullshit Jobs](https://perma.cc/7SE7-Z5MD){:target="_blank"} : A Work Rant_. STRIKE! Magazine, 2013.
 - Graham, Paul. _[The Four Quadrants of Conformism](https://perma.cc/9WSR-SKCS){:target="_blank"}_. Blog, 2020.
 - Hunt, Troy. _[Have I Been Pwned](https://perma.cc/AYG8-HK6M){:target="_blank"} : Check if your email has been compromised in a data breach_.
