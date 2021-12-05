@@ -12,5 +12,6 @@ permalink: /links/
 - Graeber, David. _[On the Phenomenon of Bullshit Jobs](https://perma.cc/7SE7-Z5MD){:target="_blank"} : A Work Rant_. STRIKE! Magazine, 2013.
 - Graham, Paul. _[The Four Quadrants of Conformism](https://perma.cc/9WSR-SKCS){:target="_blank"}_. Blog, 2020.
 - Hunt, Troy. _[Have I Been Pwned](https://perma.cc/AYG8-HK6M){:target="_blank"} : Check if your email has been compromised in a data breach_.
+- Metheny, Pat. _[Musician Rant #2: Pat Metheny on Kenny G](https://perma.cc/4GXY-46FY){:target="_blank"}_. Spitball Army, 2000.
 - Nevala-Lee, Alec. _[The hotel bathroom puzzle](https://perma.cc/AB42-ZQQZ){:target="_blank"}_. Blog, 2015.
 - Scott Alexander. _[The Amish Health Care System](https://perma.cc/Y2RV-D96H){:target="_blank"}_. Slate Star Codex, 2020.
