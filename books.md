@@ -11,6 +11,7 @@ permalink: /books/
 - Frisch, Max. _Montauk : eine Erzählung_. Frankfurt am Main: Suhrkamp, 1975.
 - Frisch, Max. _Stiller : Roman_. Frankfurt am Main: Suhrkamp, 2004.
 - Lehrer, Jonah. _Imagine : how creativity works_. Boston: Houghton Mifflin Harcourt, 2012.
+- Pollan, Michael. _How to change your mind : the new science of psychedelics_. London: Penguin Books, 2019.
 - Rosendorfer, Herbert. _Briefe in die chinesische Vergangenheit : Roman_. München: Nymphenburger, 1983.
 - Rosendorfer, Herbert. _Die grosse Umwendung : neue Briefe in die chinesische Vergangenheit_ : Roman. Köln: Kiepenheuer & Witsch, 1997.
 - Ross, Alec. _The industries of the future_. New York, NY: Simon & Schuster, 2016.
