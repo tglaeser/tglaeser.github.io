@@ -13,6 +13,8 @@ permalink: /links/
 - Asimov, Isaac. _[The Relativity of Wrong](https://perma.cc/S52T-E337){:target="_blank"}_. Oxford University Press, 1989.
 - Graeber, David. _[On the Phenomenon of Bullshit Jobs](https://perma.cc/7SE7-Z5MD){:target="_blank"} : A Work Rant_. STRIKE! Magazine, 2013.
 - Graham, Paul. _[The Four Quadrants of Conformism](https://perma.cc/9WSR-SKCS){:target="_blank"}_. Blog, 2020.
+- Housel, Morgan. _[Little Ways The World Works](https://perma.cc/F96S-Q9TJ){:target="_blank"}_. Collaborative Fund Blog, 2022.
 - Hunt, Troy. _[Have I Been Pwned](https://perma.cc/AYG8-HK6M){:target="_blank"} : Check if your email has been compromised in a data breach_.
+- Kelly, Kevin. _[103 Bits of Advice I Wish I Had Known](https://perma.cc/DZ6U-CTV5){:target="_blank"}_. The Technium, 2022.
 - Metheny, Pat. _[Musician Rant #2: Pat Metheny on Kenny G](https://perma.cc/4GXY-46FY){:target="_blank"}_. Spitball Army, 2000.
 - Nevala-Lee, Alec. _[The hotel bathroom puzzle](https://perma.cc/AB42-ZQQZ){:target="_blank"}_. Blog, 2015.
